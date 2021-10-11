@@ -1,2 +1,6 @@
-# BMI-APP
-power point explaining our project and how it works : https://docs.google.com/presentation/d/1wXmF18zkrhAou-UN70dMRWjsp9WtA4HDvbihhjuDHDI/edit#slide=id.p
+#BMI - APP 
+Includes : Video, Powerpoint, Code
+
+*How it works is present in the power point 
+
+(The video might not work on Github; It is provided on the powerpoint
